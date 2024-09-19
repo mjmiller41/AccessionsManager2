@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "bounded",
+    "workbench.editor.wrapTabs": true,
+    "editor.wordWrapColumn": 88
+}
