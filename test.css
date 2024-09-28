@@ -1,0 +1,12 @@
+h1 {
+    font-size: x-large;
+}
+
+th {
+    border: 1px solid #000;
+    margin: 0;
+}
+
+.row {
+    border-bottom: 1px solid #000;
+}

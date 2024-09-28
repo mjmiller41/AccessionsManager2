@@ -1,0 +1,11 @@
+<RCC>
+  <qresource>
+    <file>icons/disk.png</file>
+    <file>icons/folder-open.png</file>
+    <file>icons/logo.ico</file>
+    <file>icons/logo.png</file>
+    <file>icons/printer.png</file>
+    <file>icons/cross.png</file>
+    <file>icons/gear.png</file>
+  </qresource>
+</RCC>

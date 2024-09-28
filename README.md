@@ -27,9 +27,11 @@ pip install -r requirements.text
 Michael Joseph Miller
 - X: [@mjmiller41](https://twitter.com/dbader_org)
 - Email: michael.joseph.miller@gmail.com
-- GitHub: [https://github.com/mjmiller41](https://github.com/mjmiller41/) 
+- GitHub: [https://github.com/mjmiller41](https://github.com/mjmiller41/)
 
 Distributed under the GPL license. See ``LICENSE.txt`` for more information.
+
+Some icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/). Licensed under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
 ## Contributing
 
@@ -38,6 +40,7 @@ Distributed under the GPL license. See ``LICENSE.txt`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
 
 <!-- Markdown link & img dfn's -->
 [wiki]: https://github.com/mjmiller41/accessions-manager.git/wiki
